@@ -5,7 +5,7 @@
 
 A backend simulation project inspired by the **TikTok Shop Affiliate Programme**, designed to track product videos, affiliate earnings, and sales via a **Flask API** and **MySQL database**.
 
-> 🚨 **Note:** All data is fictional and used solely for educational purposes as part of the Code First Girls Foundation Programme in Data & Software Engineering.
+> 🚨 **Note:** All data is fictional and used solely for educational purposes as part of the foundation Programme in Data & Software Engineering.
 
 ---
 
