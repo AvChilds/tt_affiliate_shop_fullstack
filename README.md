@@ -1,8 +1,13 @@
 
-# TikTok Shop Affiliates API
+# TT Shop Affiliates API
 
 ##  Project Overview
 
+This is a final project for the foundation programme in data and software engineering. This project idea is based around the TikTok shop affiliate programme. The database here is synthetic and is for simulation only for this project. 
+Techniques learnt and employed:
+- creating and maninuplating databases using mySQL
+- backend fullstack with python: APIs, Flask and db-utils
+- 
 #### The Tiktok shop affiliate programme pays commission to users who create entertaining videos that advertises Tiktok shop products. 
 #### This api is designed to track videos of products sold in the Tiktok shop created by Tiktok shop affiliates
 #### The API interacts with MySQL database and allows users to:
