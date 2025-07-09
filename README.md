@@ -94,9 +94,9 @@ The API will run on ```http://127.0.0.1:5000```.
 | POST   | /add              | Adds new video dictionary to the video table                         |
 
 
-![Endpoint - http://127.0.0.1:5000\affiliates](assignment-4-APIs\images\affiliates.png)
+![Endpoint - http://127.0.0.1:5000/affiliates](images\affiliates.png)
 
-![Endpoint - http://127.0.0.1:5000/earnings](assignment-4-APIs\images\earnings.png)
+![Endpoint - http://127.0.0.1:5000/earnings](images\earnings.png)
 
 
 
