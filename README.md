@@ -11,13 +11,7 @@ A backend simulation project inspired by the **TikTok Shop Affiliate Programme**
 
 ## 📌 Project Summary
 
-This project demonstrates how TikTok shop affiliates earn commission by creating content that promotes products. The system enables CRUD operations and business logic to calculate total earnings based on views and sales.
-
-### ✅ Key Features
-- Track affiliate-uploaded videos across different countries
-- Calculate and display affiliate commissions
-- Interact with the database via a REST API
-- Add new video data programmatically
+This project demonstrates how TikTok shop affiliates earn commission by creating content that promotes products. The system enables CRUD operations and business logic to calculate total earnings based on views and sales
 
 ---
 
@@ -31,7 +25,6 @@ Through this project, I gained hands-on experience in:
 - ✅ Working with **db-utils** for database operations
 - ✅ Handling **JSON** requests/responses
 - ✅ Simulating real-world business logic (commission calculations)
-- ✅ Building a **command-line interface** to interact with the API
 - ✅ Testing and debugging API endpoints
 
 ---
