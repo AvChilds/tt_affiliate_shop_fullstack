@@ -55,11 +55,11 @@ if __name__ == "__main__":
     print(fetch_all_affiliates())
  ```
 
-![db_utils](assignment-4-APIs/images/db_utils_connect.png)
+![db_utils](images/db_utils_connect.png)
 
 ### 5. Run the Flask API: ```ttvideo_api.py```
 
-![Flask output](assignment-4-APIs/images/api_py.png)
+![Flask output](images/api_py.png)
 
 The API will run on ```http://127.0.0.1:5000```.
 >[!NOTE] Ensure MySQL database is running before starting the Flask app 
@@ -120,6 +120,6 @@ Commission per sale: 1.25
 Number of sales: 30 
 ```
 
-![Query Output](assignment-4-APIs/images/query_output.png)
+![Query Output](images/query_output.png)
 
 Thank you!
