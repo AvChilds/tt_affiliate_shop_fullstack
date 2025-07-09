@@ -46,7 +46,7 @@ Install required Python packages:
 
 ```bash
 pip install flask requests
-
+```
 
 
 ### 2. Create database "tiktok_affiliates" in Mysql
